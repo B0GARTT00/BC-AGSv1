@@ -38,7 +38,7 @@ return [
     | system used by the application. Typically, Eloquent is utilized.
     |
     | Supported: "session"
-    |
+    |fdawdadadawdawd
     */
 
     'guards' => [
